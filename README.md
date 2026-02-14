@@ -6,6 +6,9 @@ A modern, responsive e-commerce website for mobile accessories featuring AirPods
 
 This project is a fully functional mobile accessories store built with HTML, CSS, and JavaScript. It provides an intuitive shopping experience with category navigation, search functionality, and a clean, mobile-friendly design.
 
+## Link
+https://waunaneville-design.github.io/projtech/
+
 ##  Features
 
 - **Category Navigation**: Browse products by categories (AirPods, Smart Watches, Power Banks, Phone Cases, Headphones, Chargers & Adapters)
